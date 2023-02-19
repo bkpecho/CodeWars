@@ -2,7 +2,9 @@
 
 ## How It's Made:
 
-**Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+**Tech used:**  
+
+<img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&logoWidth=18&message=JAVASCRIPT&color=09344D&style=for-the-badge&logo=javascript"/>
 
 Everyday, the first thing I do is solve a Codewar! 
 
