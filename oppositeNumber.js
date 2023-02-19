@@ -10,6 +10,8 @@ Examples:
 
 */
 
+//Answer
+
 function opposite(number) {
-    return -number;
-  }
+  return -number;
+}
