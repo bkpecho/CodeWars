@@ -4,14 +4,16 @@
 
 **Tech used:**  
 
-<img src="https://img.shields.io/static/v1?label=|&labelColor=09344D&logoWidth=18&message=JAVASCRIPT&color=09344D&style=for-the-badge&logo=javascript"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Everyday, the first thing I do is solve a Codewar! 
+## Overview
+
+Every day, I challenge myself to solve a Codewars problem as the first task of the day. This repository contains my solutions to these problems.
 
 ## Optimizations
 
-I consistently refactor and optimize my code, sometimes for efficiency, sometimes for readability. 
+I consistently refactor and optimize my code, whether it's for efficiency or readability. I'm always looking for ways to improve my solutions and make them more elegant.
 
-## Lessons Learned:
+## Lessons Learned
 
-The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve.
+The biggest lesson I've learned while tackling this endless supply of questions is that there's always more to learn. It's okay not to be able to answer a question, as long as you take the initiative to improve. The Codewars community provides a great opportunity to learn from others and collaborate on solutions.
