@@ -18,3 +18,13 @@ function accum(s) {
     })
     .join('-')
   }
+
+  // shorter answer
+
+  /* 
+  
+  function accum(s) {
+	return s.split('').map((c, i) => (c.toUpperCase() + c.toLowerCase().repeat(i))).join('-');
+}
+  
+  */
