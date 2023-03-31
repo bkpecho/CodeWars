@@ -1,8 +1,10 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/bkpecho/" >Visit Here</a>
 
-## How It's Made:
+## Codewars Profile Badge
 
-**Tech used:**  
+<a href="https://www.codewars.com/users/bkpecho/"><img src="https://www.codewars.com/users/bkpecho/badges/large"/></a>
+
+## Tech Used:  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
